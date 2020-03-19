@@ -1,4 +1,4 @@
-# Case Developed by Professor Chase Kusterer, Hult International Business School
+Case Developed by Professor Chase Kusterer, Hult International Business School
 
 # Apprentice-Chef-Inc.
 
