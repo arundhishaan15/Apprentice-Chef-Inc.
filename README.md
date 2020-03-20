@@ -11,4 +11,6 @@ In an effort to diversify their revenue stream, Apprentice Chef, Inc. has launch
 
 1. About 45% of total customers who followed meal recommendations more than 20% of times on the platforms subscribed to Halfway There. Furthermore, there is a close positive relation with total photos viewed on the web and mobile platforms with these customers. This shows that these customers have great trust on the service of Apprentice Chef.
 
+2. About 47% of total customers who have subscribed to Halfway There, have got full refund on meal cancellation before noon at least once. This is Apprentice Chef's cancellation policy on the meal orders. These customers may like the flexibility of Apprentice Chef's services and showcase customer loyalty towards getting the cross sell success. Furthermore, about 8% and 28% of total customers who are Junk email users and professional email users respectively have taken up on the promotion. About 41% of those who have used cancellation before noon at least once are professional email users. From the model, these are different niche segments that we could target for a cross sell success.    
+
 
